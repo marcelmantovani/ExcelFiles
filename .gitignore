@@ -123,3 +123,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+ExcelFilesVSworkspace.code-workspace
+.vscode/settings.json
